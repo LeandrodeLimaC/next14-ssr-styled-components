@@ -9,16 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@alliar/allie-react": "^0.0.0-beta-20231127221259",
+    "next": "14.0.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "babel-plugin-styled-components": "^2.1.4",
     "eslint": "^8",
-    "eslint-config-next": "14.0.3"
+    "eslint-config-next": "14.0.3",
+    "styled-components": "^6.1.1",
+    "typescript": "^5"
   }
 }
